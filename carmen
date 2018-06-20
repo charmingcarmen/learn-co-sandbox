@@ -1,0 +1,10 @@
+puts "my name is michelle "
+puts "i'm 264 years old"
+puts " i live in alaska on an island with zero people "
+puts "in my spare time i ride roller coasters and go fishing "
+puts " i hate fish "
+
+def about "Carmen"
+puts "my name is carmen "
+puts "carmen is 25 "
+puts "carmen lives in nebraska "
